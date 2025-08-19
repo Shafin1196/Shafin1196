@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and Django**
 
-- 👨‍💻 All of my projects are available at [[https://sites.google.com/diu.edu.bd/rifatnurshafin/profile]([https://sites.google.com/diu.edu.bd/rifatnurshafin/profile](https://github.com/Shafin1196?tab=repositories)](https://github.com/Shafin1196?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Shafin1196?tab=repositories]
 
 - 💬 Ask me about **Flutter,Django**
 
