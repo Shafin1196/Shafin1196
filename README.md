@@ -17,13 +17,12 @@
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shafin1196/Shafin1196/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shafin1196/Shafin1196/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Shafin1196/Shafin1196/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Shafin1196/Shafin1196/main/assets/snake.svg" alt="snake animation" />
 </p>
+
 
 
 
