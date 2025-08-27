@@ -1,28 +1,73 @@
-<h1 align="center">Hi 👋, I'm Rifat Nur Shafin</h1>
-<h3 align="center">I am a Flutter and Django Developer from Bangladesh</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  Hi 👋, I'm Rifat Nur Shafin
+</h1>
+<h3 align="center">
+  🚀 Flutter & Django Developer from Bangladesh
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafin1196" alt="shafin1196" /></a> </p>
-
-- 🔭 I’m currently working on [Expression Evaluator](https://github.com/Shafin1196/ExpressionEvaluatorFrontend)
-
-- 🌱 I’m currently learning **Flutter and Django**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shafin1196?tab=repositories]
-
-- 💬 Ask me about **Flutter,Django**
-
-- 📫 How to reach me **rifatnur713@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rifat nur shafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifatnur.shafin.16o" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Flutter+Developer;Django+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafin1196&show_icons=true&locale=en&layout=compact" alt="shafin1196" /></p>
+## 🏆 GitHub Profile Trophy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafin1196&show_icons=true&locale=en" alt="shafin1196" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafin1196&" alt="shafin1196" /></p>
+
+
+
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working on [**Expression Evaluator**](https://github.com/Shafin1196/ExpressionEvaluatorFrontend)  
+- 🌱 Learning **Flutter** & **Django**  
+- 💬 Ask me about **Flutter, Django, REST APIs**  
+- 📂 Check out all my projects 👉 [Repositories](https://github.com/Shafin1196?tab=repositories)  
+- 📫 Reach me at **rifatnur713@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://fb.com/rifat nur shafin" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="mailto:rifatnur713@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django,python,java,js,html,css,c,cpp,mysql,postgres,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafin1196&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shafin1196&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafin1196&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🚀 Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="250px">
+</p>
