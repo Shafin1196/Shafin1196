@@ -1,11 +1,10 @@
 name: Generate Snake
 
 on:
-  schedule:               # run daily at 00:00 UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch:      # allow manual runs
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:       # lets you run manually from the Actions tab
 
-# needed so the action can push to your repo
 permissions:
   contents: write
 
@@ -14,8 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Generate the SVGs (light and dark)
-      - name: Generate snake SVGs
+      - uses: actions/checkout@v3
+
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Shafin1196
@@ -23,11 +23,12 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the "output" branch (root of that branch)
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
+        run: |
+          mkdir -p assets
+          mv dist/* assets/
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/
+          git commit -m "Update snake animation" || echo "No changes"
+          git push
